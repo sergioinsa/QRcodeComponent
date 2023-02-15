@@ -1,6 +1,6 @@
 body{
     font-family: 'Outfit', sans-serif;
-    background-color: rgb(19, 17, 16);          
+    background-color: tomato;   
   }
 
   .tarjeta{
@@ -38,7 +38,7 @@ body{
   .attribution { 
     font-size:small;
     text-align: center;
-    color: blanchedalmond;
+    color: lemonchiffon;
   }
   
   .attribution a {
